@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Python virtual environments (name suggests you used "hack")
+hack/
+.hack/
+.hack*/ 
+
+# PDF and JSON outputs
+sample_dataset/pdfs/
+sample_dataset/outputs/
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker intermediate files
+*.log
+*.pid
+
+# Build and distribution folders
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test artifacts
+.cache/
+*.pytest_cache/
+coverage.xml
+htmlcov/
