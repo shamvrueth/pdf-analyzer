@@ -76,6 +76,13 @@ pip install -r requirements.txt
 # Run the processor
 python process_pdfs.py
 ```
+---
+
+📎 To test with your own PDFs, simply place them inside the ```sample_dataset/pdfs/``` directory before running the project.
+
+✅ The processed results will be saved in the ```sample_dataset/outputs/``` folder.
+
+---
 
 ## 🎯 Output Format (Example)
 ```json
