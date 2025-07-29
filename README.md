@@ -73,7 +73,7 @@ mkdir -p input output
 docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none mysolutionname:somerandomidentifier
 ```
 
-The container will automatically process all PDF files from the `/app/input` directory and generate a corresponding `filename.json` in the `/app/output` directory for each `filename.pdf`.
+The container will automatically process all PDF files from the `/sample_dataset/pdfs` directory and generate a corresponding `filename.json` in the `/sample_dataset/outputs` directory for each `filename.pdf`.
 
 ***
 
