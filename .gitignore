@@ -7,10 +7,6 @@ hack/
 .hack/
 .hack*/ 
 
-# PDF and JSON outputs
-sample_dataset/pdfs/
-sample_dataset/outputs/
-
 # Editor folders
 .vscode/
 .idea/
