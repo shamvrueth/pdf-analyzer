@@ -47,7 +47,7 @@ The solution is designed to be run via Docker as per the hackathon requirements.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/shamvrueth/adobe-challenge1a.git](https://github.com/shamvrueth/adobe-challenge1a.git)
+git clone https://github.com/shamvrueth/adobe-challenge1a.git
 cd adobe-challenge1a
 ```
 
