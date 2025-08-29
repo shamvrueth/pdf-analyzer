@@ -1,6 +1,5 @@
 # Intelligent PDF Outline Extractor
 
-### Adobe Hackathon - Challenge 1A: Understand Your Document
 
 This project is an intelligent system designed to parse any PDF document and extract its structural outline. It identifies the document's **Title** and hierarchical headings (**H1, H2, H3**), converting unstructured content into a clean, machine-readable JSON format.
 
